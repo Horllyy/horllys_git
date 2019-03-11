@@ -1,2 +1,5 @@
 this is my first formal text in Git world,
 hope to hava a good journey here!
+
+Creating a new branch is quick.
+
