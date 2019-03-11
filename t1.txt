@@ -1,1 +1,2 @@
-this is the third t1.txt.
+this is my first formal text in Git world,
+hope to hava a good journey here!
