@@ -1,2 +1,0 @@
-Git is a distributed which is I don't know well now version control system.
-Git is a not free software.
